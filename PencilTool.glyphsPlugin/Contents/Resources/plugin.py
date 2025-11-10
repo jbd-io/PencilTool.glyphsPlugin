@@ -1,7 +1,7 @@
 # encoding: utf-8
 ###########################################################################################################
 #
-# Pencil Tool Plugin - v1.0 (VERSION DE PUBLICATION FINALE ET ROBUSTE)
+# Pencil Tool Plugin - v1.0.1 (fix: correctly display active toolbar icon when the tool is selected)
 #
 ###########################################################################################################
 
@@ -222,6 +222,16 @@ class Pencil(SelectTool):
 	def start(self):
 		self.points = []
 		self.lastPoint = None
+
+	@objc.python_method
+	def activate(self):
+		# icône active
+		self.tool_bar_image = self.active_image
+
+	@objc.python_method
+	def deactivate(self):
+		# icône inactive
+		self.tool_bar_image = self.default_image
 
 	# -----------------------
 	# Méthodes utilitaires de classe
