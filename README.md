@@ -1,4 +1,4 @@
-# PencilTool (🇬🇧 english version) 
+# ✏️ PencilTool (EN) 
 
 This is a plugin for the [Glyphs font editor](http://glyphsapp.com/) by Georg Seifert.  
 It adds a custom Pencil Tool to Glyphs, providing a natural, pencil-like drawing experience in Edit View.  
@@ -7,11 +7,13 @@ After installation, it will appear in the toolbar with a pencil icon.
 
 ![Tool preview](PencilToolCover.png "PencilTool cover")
 
+
 ### Installation
 
 1. Download the complete ZIP file and unpack it, or clone the repository.
-2. Double click the `.glyphsTool` file. Confirm the dialog that appears in Glyphs.
+2. Double click the `.glyphsPlugin` file. Confirm the dialog that appears in Glyphs.
 3. Restart Glyphs.
+
 
 ### Usage Instructions
 
@@ -23,6 +25,7 @@ The tool works interactively, so you can create custom shapes directly on the gl
 
 ![Using the Pencil Tool in Edit View.](PencilTool.png "PencilTool in action")
 
+
 ### Pencil Tool Palette
 
 The Pencil Tool comes with a palette that lets you fine-tune your strokes:
@@ -32,9 +35,11 @@ The Pencil Tool comes with a palette that lets you fine-tune your strokes:
 
 Using this palette, you can create both precise and expressive shapes directly on the glyph canvas.
 
+
 ### Requirements
 
 The plugin requires Glyphs 3.2 or higher. It may not work in earlier versions.
+
 
 ### License
 
@@ -48,9 +53,9 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 See the LICENSE file included in this repository for further details.
 
-_
+---
 
-# PencilTool (🇫🇷 version française)
+# ✏️ PencilTool (FR)
 
 PencilTool est une extension pour l’éditeur de polices [Glyphs](http://glyphsapp.com/) développé par Georg Seifert.  
 Elle ajoute à Glyphs un outil Crayon personnalisé, offrant une expérience de dessin naturelle et intuitive dans la vue Édition.  
@@ -60,15 +65,12 @@ Une fois installé, l’outil apparaît dans la barre d’outils avec une icône
 
 ![Aperçu de l’outil](PencilToolCover.png "Aperçu de PencilTool")
 
----
-
 ### Installation
 
 1. Téléchargez le fichier ZIP complet et décompressez-le, ou clonez le dépôt.  
-2. Double-cliquez sur le fichier `.glyphsTool`. Confirmez le message qui s’affiche dans Glyphs.  
+2. Double-cliquez sur le fichier `.glyphsPlugin`. Confirmez le message qui s’affiche dans Glyphs.  
 3. Redémarrez Glyphs.
 
----
 
 ### Instructions d’utilisation
 
@@ -80,7 +82,6 @@ L’outil fonctionne de manière interactive, vous permettant de créer des form
 
 ![Utilisation du Pencil Tool dans la vue Édition.](PencilTool.png "PencilTool en action")
 
----
 
 ### Palette de l’outil Crayon
 
@@ -92,14 +93,12 @@ L’outil Crayon est accompagné d’une palette qui vous permet d’ajuster vos
 
 Grâce à cette palette, vous pouvez créer aussi bien des formes précises que des tracés plus expressifs, directement sur le glyphe.
 
----
 
 ### Configuration requise
 
 Le plugin nécessite **Glyphs 3.2 ou une version ultérieure**.  
 Il se peut qu’il ne fonctionne pas correctement avec les versions antérieures.
 
----
 
 ### Licence
 
