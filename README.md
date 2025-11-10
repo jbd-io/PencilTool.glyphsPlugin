@@ -1,4 +1,4 @@
-# PencilTool
+# PencilTool (🇬🇧 english version) 
 
 This is a plugin for the [Glyphs font editor](http://glyphsapp.com/) by Georg Seifert.  
 It adds a custom Pencil Tool to Glyphs, providing a natural, pencil-like drawing experience in Edit View.  
@@ -47,3 +47,69 @@ You may obtain a copy of the License at
 http://www.apache.org/licenses/LICENSE-2.0
 
 See the LICENSE file included in this repository for further details.
+
+_
+
+# PencilTool (🇫🇷 version française)
+
+PencilTool est une extension pour l’éditeur de polices [Glyphs](http://glyphsapp.com/) développé par Georg Seifert.  
+Elle ajoute à Glyphs un outil Crayon personnalisé, offrant une expérience de dessin naturelle et intuitive dans la vue Édition.  
+L’outil Crayon reproduit une **texture réaliste et légèrement granuleuse**, qui imite les irrégularités d’un vrai trait de crayon.  
+Vous pouvez facilement ajuster **l’épaisseur** et le **lissage** du tracé afin d’adapter l’outil à votre style de dessin préféré.  
+Une fois installé, l’outil apparaît dans la barre d’outils avec une icône en forme de crayon.
+
+![Aperçu de l’outil](PencilToolCover.png "Aperçu de PencilTool")
+
+---
+
+### Installation
+
+1. Téléchargez le fichier ZIP complet et décompressez-le, ou clonez le dépôt.  
+2. Double-cliquez sur le fichier `.glyphsTool`. Confirmez le message qui s’affiche dans Glyphs.  
+3. Redémarrez Glyphs.
+
+---
+
+### Instructions d’utilisation
+
+1. Ouvrez un glyphe dans la vue Édition.  
+2. Sélectionnez l’outil Crayon dans la barre d’outils.  
+3. Cliquez et faites glisser dans la fenêtre d’édition pour dessiner librement des contours.
+
+L’outil fonctionne de manière interactive, vous permettant de créer des formes personnalisées directement sur la surface du glyphe.
+
+![Utilisation du Pencil Tool dans la vue Édition.](PencilTool.png "PencilTool en action")
+
+---
+
+### Palette de l’outil Crayon
+
+L’outil Crayon est accompagné d’une palette qui vous permet d’ajuster vos tracés avec précision :
+
+- **Épaisseur** : ajuste la largeur du trait que vous dessinez.  
+- **Lissage** : contrôle la fluidité ou la précision du tracé.  
+  Des valeurs plus élevées produisent des courbes plus douces et continues, tandis que des valeurs plus basses suivent vos mouvements de souris plus fidèlement.
+
+Grâce à cette palette, vous pouvez créer aussi bien des formes précises que des tracés plus expressifs, directement sur le glyphe.
+
+---
+
+### Configuration requise
+
+Le plugin nécessite **Glyphs 3.2 ou une version ultérieure**.  
+Il se peut qu’il ne fonctionne pas correctement avec les versions antérieures.
+
+---
+
+### Licence
+
+Copyright 2025 Jean-Baptiste Dunesme  
+
+Distribué sous licence **Apache License, Version 2.0** (la “Licence”).  
+Vous ne pouvez pas utiliser ce fichier sans respecter les conditions de la Licence.  
+Vous pouvez consulter une copie de la Licence à l’adresse suivante :
+
+http://www.apache.org/licenses/LICENSE-2.0  
+
+Reportez-vous au fichier **LICENSE** inclus dans ce dépôt pour plus de détails.
+
